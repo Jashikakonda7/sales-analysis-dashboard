@@ -2,17 +2,29 @@
 
 ## 🔍 Overview
 
-Developed an interactive sales dashboard using Excel to analyze business performance.
+This project presents an interactive Sales Analysis Dashboard built using Microsoft Excel.
+It helps analyze business performance by tracking key metrics like sales, profit, orders, and discounts.
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 * Microsoft Excel
+* Data Cleaning
+* Data Visualization
+
+## 📊 Features
+
+* KPI Cards (Total Sales, Profit, Orders, Avg Discount)
+* Sales analysis by Region and Category
+* Monthly sales trend visualization
+* Top 10 products analysis
+* Interactive filters (Year & Category)
 
 ## 📈 Key Insights
 
-* West region has highest sales
-* Technology category gives more revenue
-* Sales peak in September
+* West region recorded the highest sales performance
+* Technology category contributed the most revenue
+* Sales peaked during September and November
+* Discounts have a direct impact on profit margins
 
 ## 📸 Dashboard Preview
 
@@ -20,4 +32,11 @@ Developed an interactive sales dashboard using Excel to analyze business perform
 
 ## 🚀 Conclusion
 
-This project shows my data analysis and visualization skills.
+This project demonstrates my ability to analyze data, create dashboards, and generate meaningful business insights.
+
+
+
+
+
+
+
