@@ -1,22 +1,5 @@
 # 📊 Sales Analysis Dashboard (Excel)
 
-## 🔍 Overview
-
-An interactive Sales Analysis Dashboard built using Microsoft Excel to track and analyze business performance.
-
----
-
-## 🛠 Tools Used
-
-* Microsoft Excel
-* Data Visualization
-
----
-
-## 📊 Features
-
-✔ KPI Metrics (Sales, Profit, Orders,# 📊 Sales Analysis Dashboard (Excel)
-
 ## 🔍 Problem Statement
 
 Businesses generate large amounts of sales data, but without proper analysis, it becomes difficult to identify trends, track performance, and make informed decisions.
@@ -75,9 +58,7 @@ The dataset contains sales data including order details, product categories, reg
 
 ## 📸 Dashboard Preview
 
-
 ![Dashboard](https://github.com/Jashikakonda7/sales-analysis-dashboard/blob/main/ep-1.png?raw=true)
-
 
 ---
 
@@ -99,39 +80,3 @@ This project demonstrates my ability to analyze data, create dashboards, and gen
 ## 🔗 Project Link
 
 👉 https://github.com/Jashikakonda7/sales-analysis-dashboard
- Discount)
-✔ Sales by Region & Category
-✔ Monthly Sales Trend
-✔ Top 10 Products Analysis
-✔ Interactive Filters (Year & Category)
-
----
-
-## 📈 Key Insights
-
-* West region generated the highest sales
-* Technology category contributed maximum revenue
-* Sales peaked in September and November
-* Discounts impacted profit margins
-
----
-
-## 📸 Dashboard Preview
-
-
-![Dashboard](https://github.com/Jashikakonda7/sales-analysis-dashboard/blob/main/ep-1.png?raw=true)
-
----
-
-## 🚀 Conclusion
-
-This project demonstrates my ability to analyze data and create interactive dashboards for business decision-making.
-
-
-
-
-
-
-
-
-
